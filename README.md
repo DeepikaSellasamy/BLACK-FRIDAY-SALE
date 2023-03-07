@@ -29,3 +29,6 @@ CONCLUSION:
 The final output of the project will be a machine learning model that can predict the purchase amount that customers are likely to spend on Black Friday sales based on various features.  
 
 The ML algorithm that perform the best was XGBoost Regressor Model.
+
+![photo-1607083206325-caf1edba7a0f](https://user-images.githubusercontent.com/122966157/223352869-4a2ba044-9b65-4c60-9644-4abf0c1d41c0.jpg)
+
