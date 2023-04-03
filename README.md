@@ -14,7 +14,7 @@ Loading the dataset
 Summary statistics
 Preprocessing
 Visualization
-Feature engineering and manipulagtion
+Feature engineering and manipulation
 Split the data into train and test
 Model building 
 
