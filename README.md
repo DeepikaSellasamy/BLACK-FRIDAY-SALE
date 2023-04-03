@@ -26,6 +26,8 @@ The project will use various machine learning algorithms such as linear regressi
 
 #### CONCLUSION:
 
+An interesting observation can be made from the gender distribution plot that the number of females was less than the number of men who shopped during Black Friday.
+
 The final output of the project will be a machine learning model that can predict the purchase amount that customers are likely to spend on Black Friday sales based on various features.  
 
 The ML algorithm that perform the best was XGBoost Regressor Model.
