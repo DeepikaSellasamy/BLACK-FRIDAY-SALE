@@ -26,13 +26,13 @@ The project will use various machine learning algorithms such as linear regressi
 
 #### INSIGHTS:
 
-*75% of the number of purchases are made by Male users and rest of the 25% is done by female users.
+* 75% of the number of purchases are made by Male users and rest of the 25% is done by female users.
 
-*Mean purchase rate between the age groups tends to be the same except that the 51-55 age group has a little higher average purchase amount.
+* Mean purchase rate between the age groups tends to be the same except that the 51-55 age group has a little higher average purchase amount.
 
-*Age 26-35 Age group makes the most no of purchases in the age group.
+* Age 26-35 Age group makes the most no of purchases in the age group.
 
-*Unmarried people spend more on purchasing, the average purchase amount of married and unmarried people are the same.
+* Unmarried people spend more on purchasing, the average purchase amount of married and unmarried people are the same.
 
 #### CONCLUSION:
 
