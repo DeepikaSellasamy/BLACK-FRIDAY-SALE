@@ -32,7 +32,12 @@ The project will use various machine learning algorithms such as linear regressi
 
 * Age 26-35 Age group makes the most no of purchases in the age group.
 
-* Unmarried people spend more on purchasing, the average purchase amount of married and unmarried people are the same.
+* 60% of slaes comes from Unmarried people, the average purchase amount of married and unmarried people are the same.
+
+* Products of category [5,1,8] are being purchased more.
+
+* Products of category [10,7,6] are most expensive ones.
+
 
 #### CONCLUSION:
 
